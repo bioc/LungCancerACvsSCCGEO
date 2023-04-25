@@ -1,5 +1,5 @@
 Package: LungCancerACvsSCCGEO
-Version: 1.36.0
+Version: 1.37.0
 Date: 2013-7-13
 Title: A lung cancer dataset that can be used with maPredictDSC package
         for developing outcome prediction models from Affymetrix CEL
